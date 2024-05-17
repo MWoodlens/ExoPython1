@@ -39,7 +39,7 @@ class File1:
             return "Vous n'avez pas le droit de faire la suppression"
         
 #-----------------------------
-link = "C:/Users/hp/Desktop/TestP.txt"
+link = "./Master CLASS/TestP.txt"
 file1 = File1(link)
 
 #add
